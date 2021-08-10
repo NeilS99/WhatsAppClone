@@ -18,3 +18,16 @@
 .sidebarChat__info > p {
   margin: 10px;
 }
+
+.sidebarChat__info {
+  margin-left: 15px;
+}
+
+.add-new-chat-title {
+  margin: 0px 0px 0px 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
